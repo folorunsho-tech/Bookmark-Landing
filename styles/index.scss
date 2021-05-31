@@ -247,7 +247,7 @@ header {
     .cta {
       margin-top: 3rem;
       border-top-style: dashed;
-      border-image: url("images/bg-dots.svg") 40;
+      border-image: url("/images/bg-dots.svg") 40;
     }
   }
 }
@@ -302,7 +302,7 @@ header {
   }
 
   details summary:after {
-    content: url("images/icon-arrow.svg");
+    content: url("/images/icon-arrow.svg");
     color: black;
     position: absolute;
     width: 1rem;
