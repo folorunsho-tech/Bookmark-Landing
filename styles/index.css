@@ -364,8 +364,8 @@ header .header_content .cta .secondary:hover {
 .downloads .card .cta, .faq .card .cta {
   margin-top: 3rem;
   border-top-style: dashed;
-  -o-border-image: url("/images/bg-dots.svg") 40;
-     border-image: url("/images/bg-dots.svg") 40;
+  -o-border-image: url("images/bg-dots.svg") 40;
+     border-image: url("images/bg-dots.svg") 40;
 }
 
 .faq {
@@ -433,7 +433,7 @@ header .header_content .cta .secondary:hover {
 }
 
 .faq details summary:after {
-  content: url("/images/icon-arrow.svg");
+  content: url("images/icon-arrow.svg");
   color: black;
   position: absolute;
   width: 1rem;
